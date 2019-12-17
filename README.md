@@ -68,8 +68,11 @@
 
 > 역대 발표자
 
-* [밀쿄](https://github.com/dp221125)
+* [밀쿄]
 * 명수
 
 ## ContactOur
 *  https://github.com/start-rxswift/Introduce
+
+
+[밀쿄](https://github.com/dp221125)
