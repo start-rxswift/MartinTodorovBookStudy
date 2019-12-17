@@ -20,7 +20,7 @@
   > | Ch# | Chapter Subject | Presenter | Note |
   > |:---:| :--- | :--- | :--- |
   > |1|Hello RxSwift!| [밀쿄] |[유튜브](https://www.youtube.com/watch?v=CE0ITE7vuM0)|
-  > |2|Observables| 명수 |[노션](https://www.notion.so/lyinefordev/Observable-8d85c034e55f450b83db7bcad78e8199|
+  > |2|Observables| 명수 |[노션](https://www.notion.so/lyinefordev/Observable-8d85c034e55f450b83db7bcad78e8199)|
   > |3|Subjects|||
   > |4|Observables and Subjects in Practice| ||
 
@@ -68,8 +68,8 @@
 
 > 역대 발표자
 
-* [밀쿄](https://github.com/studiogaram)
-* [명수](https://github.com/doohochang)
+* [밀쿄](https://github.com/dp221125)
+* 명수
 
 ## ContactOur
 *  https://github.com/start-rxswift/Introduce
