@@ -19,7 +19,7 @@
 * **Section I: Getting Started with RxSwift**
   > | Ch# | Chapter Subject | Presenter | Note |
   > |:---:| :--- | :--- | :--- |
-  > |1|Hello RxSwift!| [밀쿄] |[유튜브](https://www.youtube.com/watch?v=CE0ITE7vuM0)|
+  > |1|Hello RxSwift!| [밀쿄] |[유튜브](https://www.youtube.com/watch?v=CE0ITE7vuM0), [슬라이드](https://www.slideshare.net/secret/sIwkuNSLi3VufB)|
   > |2|Observables| [명수] |[노션](https://www.notion.so/lyinefordev/Observable-8d85c034e55f450b83db7bcad78e8199)|
   > |3|Subjects|||
   > |4|Observables and Subjects in Practice| ||
