@@ -21,8 +21,8 @@
   > |:---:| :--- | :--- | :--- |
   > |1|Hello RxSwift!| [밀쿄] |[유튜브](https://www.youtube.com/watch?v=CE0ITE7vuM0), [슬라이드](https://www.slideshare.net/secret/sIwkuNSLi3VufB)|
   > |2|Observables| [명수] |[노션](https://www.notion.so/lyinefordev/Observable-8d85c034e55f450b83db7bcad78e8199)|
-  > |3|Subjects|||
-  > |4|Observables and Subjects in Practice| ||
+  > |3|Subjects|[똑바로 살자]||
+  > |4|Observables and Subjects in Practice|[도미닉]||
 
 * **Section II: Operators and Best Practices**
   > | Ch# | Chapter Subject | Presenter | Note |
@@ -77,3 +77,6 @@
 
 [밀쿄]: https://github.com/dp221125
 [명수]: https://github.com/Lyine0924
+[도미닉]: https://github.com/AppleCEO
+
+  > |21|RxRealm|  ||
