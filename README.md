@@ -27,10 +27,10 @@
 * **Section II: Operators and Best Practices**
   > | Ch# | Chapter Subject | Presenter | Note |
   > |:---:| :--- | :---: | :--- |
-  > |5|Filtering Operators| ||
-  > |6|Filtering Operators in Practice| ||
-  > |7|Transforming Operators| ||
-  > |8|Transforming Operators in Practice| ||
+  > |5|Filtering Operators|[Blacwoolf]||
+  > |6|Filtering Operators in Practice|[Blacwoolf]||
+  > |7|Transforming Operators|[똑바로 살자]|||
+  > |8|Transforming Operators in Practice|[똑바로 살자]|||
   > |9|Combining Operators| ||
   > |10|Combining Operators in Practice|
   > |11|Time Based Operators| ||
