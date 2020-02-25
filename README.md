@@ -27,7 +27,7 @@
 * **Section II: Operators and Best Practices**
   > | Ch# | Chapter Subject | Presenter | Note |
   > |:---:| :--- | :---: | :--- |
-  > |5|Filtering Operators|Blacwoolf||
+  > |5|Filtering Operators|Blacwoolf|[유튜브](https://youtu.be/wXX3E40fG6o)|
   > |6|Filtering Operators in Practice|Blacwoolf||
   > |7|Transforming Operators|똑바로 살자|[유튜브](https://www.youtube.com/watch?v=YwaPfVVYaMw&t=619s)|
   > |8|Transforming Operators in Practice|똑바로 살자|||
@@ -70,6 +70,9 @@
 
 * [밀쿄]
 * [명수]
+* [도미닉]
+* 함께자라기
+* 까만늑대고니
 
 ## ContactOur
 *  https://github.com/start-rxswift/Introduce
