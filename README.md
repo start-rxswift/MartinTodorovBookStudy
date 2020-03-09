@@ -2,6 +2,8 @@
 
 >드디어 얘기만 듣던 `RxSwift` 스터디를 시작합니다.
 
+[모임 소개](https://github.com/start-rxswift/Introduce)
+
 ## Tools
 * 📕 RxSwift - Reactive Programming with Swift by Martin Todorov ([구매하기](https://store.raywenderlich.com/products/rxswift?_ga=2.88706715.1421367013.1516248812-515082446.1516248812))
 * 🔨 Xcode 9 or Later
