@@ -32,8 +32,8 @@
   > |5|Filtering Operators|Blacwoolf|[유튜브](https://youtu.be/wXX3E40fG6o)|
   > |6|Filtering Operators in Practice|Blacwoolf||
   > |7|Transforming Operators|똑바로 살자|[유튜브1](https://www.youtube.com/watch?v=YwaPfVVYaMw&t=619s), [유튜브2](https://youtu.be/1WUWzatpUg4)|
-  > |8|Transforming Operators in Practice|똑바로 살자|||
-  > |9|Combining Operators| ||
+  > |8|Transforming Operators in Practice|똑바로 살자|[유튜브](https://www.youtube.com/watch?v=IMT7Nn1RpaY)||
+  > |9|Combining Operators|[밀쿄]|[유튜브](https://www.youtube.com/watch?v=2eDd5LtnPcY&t=19s)|
   > |10|Combining Operators in Practice|
   > |11|Time Based Operators| ||
 
